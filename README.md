@@ -14,16 +14,23 @@ Selain itu, kata “tak terlihat di permukaan” menegaskan bahwa informasi ters
 
 ### Solution:
 1. Mengakses halaman utama aplikasi e-commerce
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/s1.jpeg?raw=true)
+
 2. Melakukan inspeksi elemen halaman menggunakan fitur Inspect Element pada browser.
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/s2.jpeg?raw=true)
+
 3. Menelusuri struktur HTML dan JavaScript yang dimuat pada halaman utama.
+
 4. Mengidentifikasi komentar, variabel, atau potongan kode yang berkaitan dengan petunjuk redirect.
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/s4.jpeg?raw=true)
+
 5. Menemukan referensi URL tersembunyi yang berkaitan dengan mata uang digital atau blockchain.
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/s5.jpeg?raw=true)
+
 6. Mengakses URL tersebut secara langsung melalui browser.
 7. Setelah halaman berhasil diakses, ditemukan data unik yang berfungsi sebagai flag, yang membuktikan adanya kebocoran informasi.
-
-### PoC
 ![image alt](https://github.com/princehabibiii/challange-1/blob/main/1111.jpeg?raw=true)
-![image alt](https://github.com/princehabibiii/challange-1/blob/main/2222.jpeg?raw=true)
+
 
 ### Flag:
 2157c550eb430a772b20462a71e8c049dc5b95cc
