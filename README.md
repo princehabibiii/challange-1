@@ -23,6 +23,7 @@ Selain itu, kata “tak terlihat di permukaan” menegaskan bahwa informasi ters
 
 ### PoC
 ![image alt](https://github.com/princehabibiii/challange-1/blob/main/1111.jpeg?raw=true)
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/2222.jpeg?raw=true)
 
 ### Flag:
 2157c550eb430a772b20462a71e8c049dc5b95cc
