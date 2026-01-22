@@ -22,7 +22,7 @@ Selain itu, kata “tak terlihat di permukaan” menegaskan bahwa informasi ters
 7. Setelah halaman berhasil diakses, ditemukan data unik yang berfungsi sebagai flag, yang membuktikan adanya kebocoran informasi.
 
 ### PoC
-
+![image alt](https://github.com/princehabibiii/challange-1/blob/main/1111.jpeg?raw=true)
 
 ### Flag:
 2157c550eb430a772b20462a71e8c049dc5b95cc
